@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bobdorff/besties-server/issues"
   },
-  "homepage": "https://github.com/bobdorff/besties-server#readme"
+  "homepage": "https://github.com/bobdorff/besties-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
